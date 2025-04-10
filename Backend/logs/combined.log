@@ -1,0 +1,6 @@
+{"environment":"development","host":"cluster0.lpzaf.mongodb.net","isVercel":false,"level":"info","message":"MongoDB connection attempt 1 of 5","timestamp":"2025-04-09T12:14:01.729Z"}
+{"database":"test","environment":"development","host":"cluster0-shard-00-01.lpzaf.mongodb.net","level":"info","message":"MongoDB Connected","timestamp":"2025-04-09T12:14:02.949Z"}
+{"environment":"development","host":"cluster0.lpzaf.mongodb.net","isVercel":false,"level":"info","message":"MongoDB connection attempt 1 of 5","timestamp":"2025-04-09T17:34:02.726Z"}
+{"database":"test","environment":"development","host":"cluster0-shard-00-00.lpzaf.mongodb.net","level":"info","message":"MongoDB Connected","timestamp":"2025-04-09T17:34:03.481Z"}
+{"environment":"development","host":"cluster0.lpzaf.mongodb.net","isVercel":false,"level":"info","message":"MongoDB connection attempt 1 of 5","timestamp":"2025-04-10T04:23:58.216Z"}
+{"database":"test","environment":"development","host":"cluster0-shard-00-02.lpzaf.mongodb.net","level":"info","message":"MongoDB Connected","timestamp":"2025-04-10T04:23:58.840Z"}
